@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34cd78e6-e86b-48d1-a032-772338d4cc20" name="Changes" comment="" />
+    <list default="true" id="34cd78e6-e86b-48d1-a032-772338d4cc20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/homework1/main/mainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/homework1/main/mainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/homework1/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/homework1/model/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2L6FLCHsQ75N0t3tWAotOYscpqi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +67,11 @@
       <updated>1675183567143</updated>
       <workItem from="1675183568364" duration="26000" />
       <workItem from="1675262139466" duration="3568000" />
-      <workItem from="1675280756555" duration="619000" />
+      <workItem from="1675280756555" duration="1847000" />
+      <workItem from="1675455916310" duration="1465000" />
+      <workItem from="1675490788974" duration="248000" />
+      <workItem from="1675540447732" duration="2657000" />
+      <workItem from="1675593642985" duration="1281000" />
     </task>
     <servers />
   </component>

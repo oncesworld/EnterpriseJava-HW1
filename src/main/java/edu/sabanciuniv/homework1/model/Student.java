@@ -26,8 +26,10 @@ public class Student {
     @Column(name = "Last_Update_Date")
     private Date date;
 
-    //constructors
+    @ManyToOne
+    private School school;
 
+    //Constructors
     public Student(String firstName, String lastName, String faculty, Date date) {
         this.firstName = firstName;
         this.lastName = lastName;
@@ -39,7 +41,6 @@ public class Student {
     }
 
     //Getter and Setter
-
 
     public long getStudentId() {
         return studentId;
@@ -79,6 +80,14 @@ public class Student {
 
     public void setDate(Date date) {
         this.date = date;
+    }
+
+    public School getSchool() {
+        return school;
+    }
+
+    public void setSchool(School school) {
+        this.school = school;
     }
 
     //hashcode and equals
